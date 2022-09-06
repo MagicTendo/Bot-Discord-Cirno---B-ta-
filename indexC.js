@@ -2870,4 +2870,4 @@ client.on('messageReactionAdd', (reaction, user) => {
 
 })
 
-client.login("NzA5ODA0ODEwNjY4MzQzNDQ4.XrrPSw.scBsWdEn3Lj8vrTEDDVKBiDrTkc")
+client.login(token)
